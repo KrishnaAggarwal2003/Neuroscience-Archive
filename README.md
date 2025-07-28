@@ -12,3 +12,15 @@ This repository serves as a personal archive for my neuroscience studies and int
 
 Whether you're a student, educator, or just curious about the workings of the brain, I hope this collection helps you explore and understand the fascinating field of neuroscience.
 
+
+# Neuroscience
+
+## Courses/Videos
+
+## Books/Reading Material
+
+
+# Psychology
+
+## Courses/Videos
+## Books/Reading Material
